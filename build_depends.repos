@@ -17,9 +17,9 @@ repositories:
     version: main
   vendor/pacmod3_msgs:
     type: git
-    url: https://github.com/astuff/pacmod3_msgs.git
+    url: https://github.com/AVGTeam-OperakitB/pacmod3_msgs.git
     version: 1.0.0
   tmp/tier4_autoware_msgs:
     type: git
-    url: https://github.com/AVGTeam-OperakitB/tier4_autoware_msgs.git
+    url: https://github.com/AVGTeam-OperakitB/autoware_auto_msgs.git
     version: tier4/universe
